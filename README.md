@@ -60,7 +60,6 @@ Built an automated CI/CD pipeline using Jenkins, Docker, Kubernetes, and GitHub.
 - Containerized applications using Docker
 - Practiced automated deployment workflows
 
-🔗 [View Projects](https://github.com/Yashzolekar)
 
 ### 3. ☁️ AWS EC2 Auto Scaling Project
 
