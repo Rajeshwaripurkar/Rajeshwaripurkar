@@ -66,9 +66,9 @@ Built an automated CI/CD pipeline using Jenkins, Docker, Kubernetes, and GitHub.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Rajeshwari Purkar](https://www.linkedin.com/in/rajeshwari-purkar-9431992ab)
-- 💻 GitHub: [Rajeshwaripurkar](https://github.com/Rajeshwaripurkar)
-- 📩 Mail: [Mail](rajeshwaripurkar2@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/rajeshwari-purkar-9431992ab](https://www.linkedin.com/in/rajeshwari-purkar-9431992ab)
+- 💻 GitHub: [https://github.com/Rajeshwaripurkar](https://github.com/Rajeshwaripurkar)
+- 📩 Mail: [rajeshwaripurkar2@gmail.com](rajeshwaripurkar2@gmail.com)
 
 ---
 
