@@ -45,6 +45,7 @@ Designed and provisioned AWS infrastructure using Terraform and Infrastructure a
 - Provisioned EC2 instances
 - Configured AWS networking
 - Automated infrastructure using Terraform
+- 
 
 
 
@@ -61,6 +62,28 @@ Built an automated CI/CD pipeline using Jenkins, Docker, Kubernetes, and GitHub.
 - Practiced automated deployment workflows
 
 🔗 [View Projects](https://github.com/Yashzolekar)
+
+### 3. ☁️ AWS EC2 Auto Scaling Project
+
+Designed and configured AWS infrastructure to automatically scale EC2 instances based on application demand.
+
+**🛠️ Technologies Used**
+- Amazon EC2
+- Auto Scaling Groups (ASG)
+- Application Load Balancer (ALB)
+- Launch Templates
+- Amazon CloudWatch
+- AWS VPC
+
+**📌 Key Highlights**
+- Created an EC2 Launch Template.
+- Configured an Auto Scaling Group.
+- Set minimum, desired, and maximum instance capacity.
+- Configured scaling policies based on CloudWatch metrics.
+- Distributed incoming traffic using an Application Load Balancer.
+- Improved application availability and scalability.
+
+🔗 **[View Project on GitHub](https://github.com/Rajeshwaripurkar/aws-ec2-auto-scaling-project)**
 
 ---
 
