@@ -46,7 +46,7 @@ Designed and provisioned AWS infrastructure using Terraform and Infrastructure a
 - Configured AWS networking
 - Automated infrastructure using Terraform
 
-🔗 [View Project](https://github.com/Yashzolekar)
+
 
 ### 2. 🔄 End-to-End CI/CD Pipeline
 
